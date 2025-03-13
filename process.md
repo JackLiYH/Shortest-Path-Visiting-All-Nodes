@@ -1,6 +1,8 @@
 ## Video Link
 https://youtu.be/CX-NLdqt7cg
 
+Completion time 15 mins
+
 # Problem solving process
 
 ### Steps
