@@ -1,6 +1,6 @@
 ## Video Link  https://youtu.be/CX-NLdqt7cg 
 
-# Problem solving process (Code challenge completion time 15 mins)
+# Problem solving process
 
 ### Steps
 
